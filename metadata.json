@@ -1,0 +1,8 @@
+{
+  "name": "PIYAN Luxury Design Hotel & Residences",
+  "description": "PIYAN 台北頂級奢華設計酒店。融合文華東方極致尊爵細膩管家服務與W飯店前衛潮流風尚，提供全景奢華套房、米其林星級饗宴、高空天際泳池與24/7隨時為您禮賓服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
